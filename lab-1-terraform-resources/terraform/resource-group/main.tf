@@ -15,4 +15,4 @@ provider "azurerm" {
   tags = {
     environment = "dev"
   }
-}
+
