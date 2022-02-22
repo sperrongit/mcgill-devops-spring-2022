@@ -7,7 +7,7 @@ location = var.location
 tags = {
 environment = "dev"
 }
-
+}
 provider "azurerm" {
 # Configuration options
 features {}
