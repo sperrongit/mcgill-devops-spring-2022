@@ -11,3 +11,7 @@ provider "azurerm" {
   features {}
 
 }
+  tags = {
+    environment = "dev"
+  }
+}
