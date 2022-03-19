@@ -4,7 +4,6 @@ terraform {
     storage_account_name = "githubactionstfstateseb"
     container_name       = "tfstatedevops"
     key                  = "lab-2-aks-cluster.tfstate" 
-    
   }
 }
 
