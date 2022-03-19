@@ -7,7 +7,7 @@ resource "azurerm_resource_group" "default" {
 
   tags = {
     environment = "dev"
-    roles= "dev"
+    role= "dev"
   }
 }
 
